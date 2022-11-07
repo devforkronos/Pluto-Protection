@@ -12,7 +12,7 @@ With over 100 different Anti-Admin scripts implanted into Pluto, your privacy an
 
 Pluto started as a solo project in 9/12/2021 and decided to be submitted to Synapse's Submission for a free key.
 
-Pluto Contributors, and Developers: Anth (Main Dev), Felix (Dev), B0NEZ (Contributor).
+Pluto Contributors, will stay hidden.
 
 Pluto is currently updating as the status is maintenance.
 
