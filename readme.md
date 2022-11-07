@@ -25,7 +25,7 @@ Pluto is currently APPLY-ONLY this meaning you would have to apply.
 
 Apply: https://discord.gg/5RR7xzKxBD
 
--------------------   CODES -------------------------
+Common COdes:
 512: You have been saved from a malicious script buying a gamepass.
 542: You have been saved from a malicious script from chatting a blacklisted word.
 624: The script is grabbing sensitive information, and Pluto prevented it.
