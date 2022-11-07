@@ -20,7 +20,7 @@ Over 100 games Support, with Admin Checks running threw the script.
 
 High quality Notifications, with 0 performance loss.
 
-Pluto contains loadstring logs, to see the blacklisted loadstring.
+Pluto contains blacklists, to blacklist a script from being ran, if the script contains malicious code.
 
 Pluto is currently APPLY-ONLY this meaning you would have to apply.
 
