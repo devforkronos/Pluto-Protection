@@ -22,6 +22,8 @@ High quality Notifications, with 0 performance loss.
 
 Pluto contains blacklists, to blacklist a script from being ran, if the script contains malicious code.
 
+Clean customization, with sleek gui's and login system. Unbreachable data / almost uncrackable.
+
 Pluto is currently APPLY-ONLY this meaning you would have to apply.
 
 Apply: https://discord.gg/5RR7xzKxBD
