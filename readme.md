@@ -34,6 +34,11 @@ Pluto contains a framework for stupid people if they're to lazy to code it thems
 #1 Customizable Vote For Pluto 
 
 
+
+***SPECIFIC GAMES***
+Pet Sim: Common Duplicate Scripts will be blocked from being ran for security.
+Pet sim: Visual Scripts will be blocked from being ran for security.
+Any game that tries to log user, and ID will be blocked for security reasons, as configs are supported you can choose to disable this on your own risk.
 Pluto is currently APPLY-ONLY this meaning you would have to apply.
 
 Apply: https://discord.gg/5RR7xzKxBD
