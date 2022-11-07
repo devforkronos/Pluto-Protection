@@ -4,9 +4,9 @@ The future is now in your hands.
 
 Pluto acts as a Guardian to block any malicious scripts from accessing sensitive information. Pluto can also act as a anticheat disabler with packed disablers.
 
-Pluto saves users from scripts attempting to Chat, Buy Gamepasses, Log HWIDS, Log User IDS, Log IPS, and More.
+Pluto saves users from scripts attempting to Chat, Buy Gamepasses, and other basic things.
 
-Once a script gets caught, it will be added to the database, so no other user can inject it.
+Once a script gets caught, a user can report it so it can be permanently attemptable to blacklist the script from being ran if you have pluto injected.
 
 With over 100 different Anti-Admin scripts implanted into Pluto, your privacy and ban rate is in our hands.
 
