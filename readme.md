@@ -1,5 +1,8 @@
 Introducing Pluto:
 
+Pluto's Status: ***CLOSED SOURCE**
+Framework: **Maintenance**
+
 The future is now in your hands.
 
 Pluto acts as a Guardian to block any malicious scripts from accessing sensitive information. Pluto can also act as a anticheat disabler with packed disablers.
@@ -23,6 +26,13 @@ High quality Notifications, with 0 performance loss.
 Pluto contains blacklists, to blacklist a script from being ran, if the script contains malicious code.
 
 Clean customization, with sleek gui's and login system. 
+
+Four different versions of Pluto to ensure privacy.
+
+Pluto contains a framework for stupid people if they're to lazy to code it themselves. 
+
+#1 Customizable Vote For Pluto 
+
 
 Pluto is currently APPLY-ONLY this meaning you would have to apply.
 
